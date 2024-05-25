@@ -1,0 +1,15 @@
+F:\.NetCourse\Assignments c#\API\Talapat\Talabat.APIs\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+F:\.NetCourse\Assignments c#\API\Talapat\Talabat.APIs\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+F:\.NetCourse\Assignments c#\API\Talapat\Talabat.APIs\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+F:\.NetCourse\Assignments c#\API\Talapat\Talabat.APIs\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NetCourse\Assignments c#\API\Talapat\Talabat.APIs\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+F:\.NetCourse\Assignments c#\API\Talapat\Talabat.APIs\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+F:\.NetCourse\Assignments c#\API\Talapat\Talabat.APIs\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+F:\.NetCourse\Assignments c#\API\Talapat\Talabat.APIs\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+F:\.NetCourse\Assignments c#\API\Talapat\Talabat.APIs\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+F:\.NetCourse\Assignments c#\API\Talapat\Talabat.APIs\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+F:\.NetCourse\Assignments c#\API\Talapat\Talabat.APIs\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+F:\.NetCourse\Assignments c#\API\Talapat\Talabat.APIs\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+F:\.NetCourse\Assignments c#\API\Talapat\Talabat.APIs\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+F:\.NetCourse\Assignments c#\API\Talapat\Talabat.APIs\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+F:\.NetCourse\Assignments c#\API\Talapat\Talabat.APIs\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CopyComplete
